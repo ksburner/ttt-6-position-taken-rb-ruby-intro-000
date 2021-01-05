@@ -1,3 +1,4 @@
 # code your #position_taken? method here!
-def position_taken?(position, suggestion)
+def position_taken?(position, board)
+  
 end
